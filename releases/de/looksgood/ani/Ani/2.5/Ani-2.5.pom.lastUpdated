@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Sep 29 20:17:14 CEST 2014
+http\://jogamp.org/deployment/maven/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://jogamp.org/deployment/maven/.lastUpdated=1412014634138
+http\://repo1.maven.org/maven2/.lastUpdated=1412014634382
