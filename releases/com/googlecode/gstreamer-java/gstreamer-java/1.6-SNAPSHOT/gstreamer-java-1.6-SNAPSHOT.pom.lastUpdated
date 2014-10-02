@@ -1,8 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Oct 02 10:44:46 CEST 2014
-http\://jogamp.org/deployment/maven/.error=
-http\://xuggle.googlecode.com/svn/trunk/repo/share/java/.error=
-http\://jogamp.org/deployment/maven/.lastUpdated=1412239167363
-http\://xuggle.googlecode.com/svn/trunk/repo/share/java/.lastUpdated=1412239167572
-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1412239486272
-https\://oss.sonatype.org/content/repositories/snapshots/.error=

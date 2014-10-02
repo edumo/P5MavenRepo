@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.gstreamer-java</groupId>
+  <artifactId>gstreamer-java</artifactId>
+  <version>1.6-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141002090126</lastUpdated>
+  </versioning>
+</metadata>
